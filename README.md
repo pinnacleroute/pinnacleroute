@@ -29,9 +29,11 @@ We work with startups, enterprises, and everything in between, delivering innova
 
 ## Featured Projects
 Check out some of our recent work:
-- Mandaean Project: Virtual closet & lending platform for designer wear  
-- AI Chatbot Integrations for eCommerce  
-- Cross-platform app for local logistics and tracking  
+- [The Designer Club](https://thedesignerclub.com.au/): Virtual closet & lending platform for designer wear in Australia 
+- [Iconic Jewelry](https://www.iconicjewelry.com/): It's an e-commerce platform producing climate-conscious jewelry. 
+- [Mandaean Life](https://apps.apple.com/in/app/mandaean-life/id6450825296): This mobile app is a massive online resource community for Mandaean history, beliefs & events!
+- [AVP Global](https://avpglobal.com/): They deliver advanced AV solutions to improve business communication and collaboration.
+- [Hawke Media](https://hawkemedia.com/): The brand offers tailored, results-driven solutions to help companies grow and thrive online.  
 
 ---
 
